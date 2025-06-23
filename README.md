@@ -1,2 +1,27 @@
-# smart-bmi-app
-A sleek and responsive BMI calculator built with HTML, CSS, and JavaScript. Supports metric &amp; imperial units, light/dark themes, real-time health suggestions, BMI history tracking with localStorage, and mobile-friendly design.
+# 💪 Smart BMI Calculator
+
+A responsive and feature-rich BMI (Body Mass Index) calculator built using HTML, CSS, and JavaScript. Designed to be fast, user-friendly, and mobile-ready.
+
+## 🚀 Features
+
+- 📏 Supports both Metric (cm/kg) and Imperial (ft/in, lbs) units  
+- 🌗 Light/Dark theme toggle with saved preference  
+- 💡 Real-time health tips based on BMI  
+- 🧠 BMI history tracking (localStorage)  
+- 🧹 Clear history button  
+- 📱 Mobile responsive layout  
+- 📦 PWA-ready structure (installable as app)
+
+## 📸 Preview
+
+_Add screenshot here if available_
+
+## 🌐 Live Demo
+
+_Coming soon via GitHub Pages..._
+
+## 🧠 Author
+
+**Aaryan Yadav**  
+Frontend Developer Intern  
+[Portfolio Website](https://aaryan-1112.github.io/developer-portfolio)
